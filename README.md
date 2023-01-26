@@ -24,3 +24,8 @@ Network parameter update
 해결책: target Network를 분리시킴. 즉, 두 개의 Network 사용<br>
 
 위 세개의 문제점을 해결한 알고리즘
+<img width="683" alt="스크린샷 2023-01-27 오전 5 41 50" src="https://user-images.githubusercontent.com/121830114/214946110-ca6ad937-ae3d-4bc4-ae12-8ef597d350c0.png">
+
+## 실습
+<img width="414" alt="스크린샷 2023-01-27 오전 7 12 52" src="https://user-images.githubusercontent.com/121830114/214962537-8848aafd-4896-4568-a596-69c4020991a3.png">
+<img width="615" alt="스크린샷 2023-01-27 오전 7 13 08" src="https://user-images.githubusercontent.com/121830114/214962569-0bfc8bff-37d1-49b5-aa0c-de8992220fe9.png">
